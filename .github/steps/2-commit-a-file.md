@@ -22,7 +22,7 @@ _你已经成功创建了一个分支! :tada:_
 
 2. 点击 **Add file** 下拉菜单，选择 **Create new file** 。
 
-   <img width="300" alt="screenshot of the create new file option" src="../images/create-new-file-option.png">
+   <img width="300" alt="screenshot of the create new file option" src="https://github.com/kentyang3910/github-first-practice/blob/main/.github/images/create-new-file-option.png?raw=true">
 
 3. 在 **Name your file...** 输入框中填写文件名： `PROFILE.md`.
 
@@ -32,7 +32,7 @@ _你已经成功创建了一个分支! :tada:_
    Welcome to my GitHub profile!
    ```
 
-   ![screenshot for adding the profile.md file](../images/add-profile-file.png)
+   ![screenshot for adding the profile.md file](https://github.com/kentyang3910/github-first-practice/blob/main/.github/images/add-profile-file.png?raw=true)
 
 5. 点击内容编辑框右上角的 **Commit changes...**，随后会弹出一个提交对话框。
 
@@ -40,7 +40,7 @@ _你已经成功创建了一个分支! :tada:_
 
    - 填写**提交信息**（Commit message）与可选的**详细描述**（Extended description），有助于清晰说明本次修改的内容。当一次提交涉及多个文件时，这一点尤为实用。
 
-   <img width="400" alt="screenshot of adding a new file with a commit message" src="../images/commit-message-dialog.png">
+   <img width="400" alt="screenshot of adding a new file with a commit message" src="https://github.com/kentyang3910/github-first-practice/blob/main/.github/images/commit-message-dialog.png?raw=true">
 
 7. 本节我们暂时不用关心其他选项，直接点击 **Commit changes**。
 
